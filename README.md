@@ -60,5 +60,5 @@
 ### 🐍 Cobrinha dos commits  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VinicioCouto/VinicioCouto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+ <img src="https://raw.githubusercontent.com/VinicioCouto/VinicioCouto/output/github-contribution-grid-snake-dark.svg" />
 </p>
