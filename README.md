@@ -1,7 +1,4 @@
-<!-- Banner / Capa -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/00/d9/85/00d98563713c6b11b855b25127ca15cf.gif" alt="Banner Vinício Couto" width="100%" />
-</p>
+
 
 <!-- Título animado -->
 <h1 align="center">
