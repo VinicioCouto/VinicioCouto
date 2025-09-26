@@ -65,3 +65,8 @@ Essa experiência prática me permitiu colocar em ação conhecimentos de **Enge
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Banner Vinício Couto" width="100%" />
 </p>
+
+<!-- Texto final centralizado -->
+<p align="center" style="font-size:18px; font-weight:bold; color:#00FF00; margin-top:20px;">
+  👀 Confira meus repositórios abaixo e explore meus projetos! 🚀
+</p>
