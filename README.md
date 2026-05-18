@@ -13,17 +13,23 @@
   <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="900px" alt="Coding Animation"/>
 </p>
 
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano (5º semestre)**.  
-Sou **estagiário como Desenvolvedor Web** na **UNEB** e na **Prefeitura Municipal de Guanambi**, onde tive a oportunidade de participar de todas as etapas do desenvolvimento de sistemas — desde o **levantamento de requisitos**, até a implementação de **back-end, banco de dados e integrações**.  
 
-Essa experiência prática me permitiu colocar em ação conhecimentos de **Engenharia de Software, Banco de Dados, Desenvolvimento Web, Estruturas de Dados e Interação Humano-Computador**, além de aprimorar habilidades em **trabalho em equipe, versionamento de código e relações interpessoais**.  
+Atualmente sou formado em **Análise e Desenvolvimento de Sistemas pelo Instituto Federal Baiano** e atuo como **Professor Substituto do Ensino Básico, Técnico e Tecnológico (EBTT)** no Instituto Federal Baiano.
 
-### 🔎 Resumindo  
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (5º semestre – IF Baiano)  
-- 💻 Estagiário em **Desenvolvimento Web** na UNEB e Prefeitura Municipal de Guanambi  
-- 🏗️ Experiência prática em **levantamento de requisitos, back-end e banco de dados**  
-- 📚 Conhecimentos aplicados em **Engenharia de Software, Banco de Dados e Web**  
-- 🤝 Habilidades em **trabalho em equipe, versionamento de código (Git) e soft skills**  
+Ao longo da minha trajetória acadêmica e profissional, também atuei como **Desenvolvedor Web** na Universidade do Estado da Bahia e na Prefeitura Municipal de Guanambi, participando de diferentes etapas do desenvolvimento de sistemas — desde o **levantamento de requisitos** até a implementação de **back-end, banco de dados e integrações**.
+
+Essa experiência contribuiu para consolidar conhecimentos em **Engenharia de Software, Banco de Dados, Desenvolvimento Web, Estruturas de Dados e Interação Humano-Computador**, além de fortalecer habilidades em **trabalho em equipe, versionamento de código com Git e relações interpessoais**.
+
+---
+
+## 🔎 Resumindo
+
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pelo IF Baiano  
+- 👨‍🏫 Professor Substituto **EBTT** no Instituto Federal Baiano  
+- 💻 Experiência em **Desenvolvimento Web**, back-end e banco de dados  
+- 🏗️ Atuação em **levantamento de requisitos, integrações e desenvolvimento de sistemas**  
+- 📚 Conhecimentos em **Engenharia de Software, Banco de Dados e Desenvolvimento Web**  
+- 🤝 Habilidades em **trabalho em equipe, Git e   
 
 ---
 
